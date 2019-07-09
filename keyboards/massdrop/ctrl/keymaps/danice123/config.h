@@ -1,5 +1,7 @@
 #pragma once
 
+#define TAPPING_TERM 200
+
 #define RGB_MATRIX_CUSTOM_USER
 
 // #define DISABLE_RGB_MATRIX_SOLID_COLOR
